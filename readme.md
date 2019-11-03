@@ -7,18 +7,18 @@
 - [__Documentation__](https://wiki.totaljs.com/openplatform/01-welcome/)
 - [__Website__](https://www.totaljs.com/openplatform/)
 
-OpenPlatform is a simple enterprise-ready platform for running, integrating and managing multiple web applications. __We recommend to use bundled version__.
+OpenPlatform это простая готовая к корпоративным задачам платформа для запуска, интеграции и менеджмента многих web приложений. __Мы рекомендуем использовать bundled версию__.
 
-## Install instructions
+## Инструкции по установке 
 
-- download `openplatform`
-- perform `npm install`
-- create a database
-- execute `database.sql`
-- update connection strings in `/config` file
-- run openplatform `$ node debug.js`
+- загрузите `openplatform`
+- выполните `npm install`
+- создайте базу данных
+- выполните `database.sql`
+- обновить строки подключения в файле `/config`
+- запустите openplatform `$ node debug.js`
 
-## Requirements
+## Требования
 
 - Total.js `+v3.3`
 - PostgreSQL `+v10`
